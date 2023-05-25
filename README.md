@@ -18,8 +18,21 @@ Push mi permette di sincronizzare i miei local changes con il "server di git hub
 
 Branches are diverging versions of the same repository, they can contain many variants of the repository itself. Basically, it allows people to allows to different part of a project working in sub directories of the main directory (which is the same).
 
+Gli steps sono:
+
+1- GIT ADD      CREIAMO UN FILE
+2- GIT COMMIT   COMMITTIAMO IL FILE
+3- GIT PUSH     SINCRONIZZIAMO IL FILE CON IL "SERVER" DI GITHUB
+
 Gli step sono:
 
 1- GIT ADD      CREIAMO UN FILE
 2- GIT COMMIT   COMMITTIAMO IL FILE
 3- GIT PUSH     SINCRONIZZIAMO IL FILE CON IL "SERVER" DI GITHUB
+
+Lista di alcuni comandi che possono essere utili:
+
+Per aggiornare/refreshare GIT, esegui: <git push origin>
+Per rinominare una cartella su Linux, esegui: <mv vecchio-nome nuovo-nome>
+Per passare a un branch diverso, utilizza il comando git checkout seguito dal nome del branch. Ad esempio, per passare al branch "feature/nuova-funzionalità", esegui: <git checkout feature/nuova-funzionalità>
+
