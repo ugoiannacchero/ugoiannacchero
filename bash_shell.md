@@ -3,7 +3,7 @@ Alma Linux9 Bash shell
 
 ## Table of contents:
 
-- Basic commands
+- Basic stuff
 - File Search and Text Manipulation
 - SSH
 - Git environment
