@@ -40,11 +40,3 @@ Alma Linux9 Bash shell
 `ln -s source_file symbolic_link` is used to create a symbolic link, also known as a soft link, between a source file and a symbolic link.
 
 `type` determines the type and location of a command or program.
-
-```bash
-$ type l
-l is aliased to 'ls --color -lah --group-directories-first'
-
-$ type cd
-cd is a shell builtin
-```
