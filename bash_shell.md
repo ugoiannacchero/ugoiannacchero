@@ -62,7 +62,9 @@ Alma Linux9 Bash shell
 
 ### find
 
-`find . -name "*.cpp"` will find all files ending in `.cpp` in the current directory `.` and its subdirectories. To match the actual `.` or `*` symbols, you can escape them as `\.` and `\*`. Case sensitive! For a partial match, use `"OUT*"` like for `OUTPUT`.
+`find . -name "*.cpp"` will find all files ending in `.cpp` in the current directory `.` and its subdirectories.
+
+To match the actual `.` or `*` symbols, you can escape them as `\.` and `\*`. Case sensitive! For a partial match, use `"OUT*"` like for `OUTPUT`.
 
 `find . -maxdepth 1 -type d` searches for all subfolders (up to a maximum depth of 1).
 
@@ -72,7 +74,7 @@ Alma Linux9 Bash shell
 
 ### grep
 
-`grep -rni --include="*.txt" * -e 'hello'` searches recursively in THAT directory for all `.txt` files for the word "hello" case insensitive. If you want the whole word, use `-w`.
+`grep -rni --include="*.txt" * -e 'hello'` searches recursively in THAT directory for all `.txt` files for the word "hello" case insensitive. For the whole word, use `-w`.
 
 `grep -3 searchtext filename` will additionally output 3 lines before and after any lines containing `searchtext`. Any number of lines can be used here.
 
@@ -81,8 +83,6 @@ Alma Linux9 Bash shell
 `grep -v searchtext filename` will output all lines EXCEPT those containing `searchtext`.
 
 `grep -r searchtext` will recursively search all files and folders starting from the current directory.
-
-`grep -r --exclude='*.sql' searchtext dir/` will recursively search but EXCLUDE THOSE FILES, for example, `grep -r --exclude='blacomcalc-output' BLA >> all_BLA`.
 
 `tac stdout | grep E0 -m 1` searches from the bottom and stops at the first occurrence.
 
