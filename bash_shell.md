@@ -5,7 +5,8 @@ Alma Linux9 Bash shell
 
 - Basic stuff
 - Find, Grep, Sed and Rename
-- Git environment
+- Regular Expressions (Regexs)
+- GitHub environment
 
 
 # Basic stuff:
