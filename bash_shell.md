@@ -9,7 +9,7 @@ Alma Linux9 Bash shell
 - Git environment
 
 
-# Basic commands
+# Basic stuff
 
 `cd ..` allows you to move up one level in the directory hierarchy.
 
@@ -19,7 +19,9 @@ Alma Linux9 Bash shell
 
 `touch` create an empty file, but it can also be used to modify the access and modification timestamps of existing files.
 
-`mkdir` creates a new directory with the specified name in the current working directory. It is possible to create multiple directories at once e.g `mkdir folder1 folder2 folder3`
+`mkdir` creates a new directory with the specified name in the current working directory. 
+
+`mkdir folder1 folder2 folder3` is used to create multiple directories at once. 
 
 `rmdir` removes **empty** directories or folders.
 
