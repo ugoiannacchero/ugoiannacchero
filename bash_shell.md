@@ -1,4 +1,4 @@
-Alma Linux9 Bash shell
+AlmaLinux9 Bash shell
 =======================
 
 ## Table of contents:
