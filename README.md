@@ -1,6 +1,6 @@
-# Appunti 
+# Notes 
 
-Durante lo studio di Linux, bash shell, scripting e altre cose simili, ho cominciato a tenere traccia di una lista di vari comandi utili.
+Here is a list of various useful commands regarding the "Bash shell" and "Python":
 
 * [Alma Linux9 Bash shell](bash_shell.md)
 * [Python](python_language.md)
