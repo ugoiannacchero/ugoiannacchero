@@ -1,5 +1,3 @@
-
-
 <div align="center">
   &nbsp;
   <a title="English" href="./README.md"><kbd><img width="30px" src="https://flagicons.lipis.dev/flags/4x3/gb.svg"></kbd></a>
