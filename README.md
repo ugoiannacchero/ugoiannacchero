@@ -1,25 +1,26 @@
 <div align="center">
   &nbsp;
-<a title="English" href="./README.md"><kbd><img width="30px" src="https://flagicons.lipis.dev/flags/4x3/gb.svg"></kbd></a>
-  &nbsp;
+➡️<a title="English" href="./README.md"><kbd><img width="30px" src="https://flagicons.lipis.dev/flags/4x3/gb.svg"></kbd></a>⬅️
+  &nbsp; 
   |
   &nbsp;
   <a title="Italiano" href="./README.it.md"><kbd><img width="30px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd></a> 
-  &nbsp; ⬅️
+  &nbsp;
 </div>
 
-## Ciao! Io sono Ugo, benvenuti nel mio profilo GitHub!
-<br>
+### Hello! I'm Ugo and welcome to my GitHub profile!
 
-## Alcune info su di me
+____________________________________________________________________________________________________________________________________________________________________________________
 
+#### Some info about me:
 * 📍  Lamezia Terme, Calabria, Italy
 * 🌍  Based in Milan
 * 🎓  Bachelor's degree in Biological Sciences - Siena
 * 🎓  Master's degree in Molecular Biotechnology and Bioinformatics - Milan
 * 📚  2° level vocational Master in Bioinformatics and Functional Genomics - Milan
+____________________________________________________________________________________________________________________________________________________________________________________
 
-## I miei contatti
+#### Contacts:
 
 <p align="left">
 <a title="GitHub" href="https://github.com/ugoiannacchero"><img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"></a> 
@@ -27,10 +28,11 @@
 <a title="LinkedIn" href="https://www.linkedin.com/in/ugo-maria-iannacchero-92314b211"><img width="30" src="https://img.icons8.com/color/96/000000/linkedin.svg"></a> 
 <a title="Twitter" href="https://twitter.com/redoctorok"><img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"></a>
 <a title="Instagram" href="https://www.instagram.com/redoctorok97/"><img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"></a>
-
 </p>
 
-## Stats
+____________________________________________________________________________________________________________________________________________________________________________________
+
+#### Stats
 
 <a href="https://github.com/ugoiannacchero" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugoiannacchero&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <br>
