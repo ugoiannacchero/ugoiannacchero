@@ -1,6 +1,6 @@
 <div align="center">
 &nbsp;
-<img src="https://github.com/ugoiannacchero/ugoiannacchero/blob/main/GIF/leftarrow.gif" width="40" height="20"> <a title="English" href="./README.md"><kbd><img width="30px" src="https://flagicons.lipis.dev/flags/4x3/gb.svg"></kbd></a> <img src="https://github.com/ugoiannacchero/ugoiannacchero/blob/main/GIF/rightarrow.gif" width="40" height="20">
+<img src="https://github.com/ugoiannacchero/ugoiannacchero/blob/main/GIFs/righttarrow.gif" width="40" height="20"> <a title="English" href="./README.md"><kbd><img width="30px" src="https://flagicons.lipis.dev/flags/4x3/gb.svg"></kbd></a> <img src="https://github.com/ugoiannacchero/ugoiannacchero/blob/main/GIFs/leftarrow.gif" width="40" height="20">
 &nbsp; 
 |
 &nbsp; 
