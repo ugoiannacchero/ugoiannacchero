@@ -7,6 +7,7 @@
   <a title="Italiano" href="./README.it.md"><kbd><img width="30px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd></a> 
 </div>
 
+![](https://github.com/ugoiannacchero/Your_GIF_Name.gif)
 
 #### Some info about me:
 * 📍 Lamezia Terme, Calabria, Italy
