@@ -21,15 +21,15 @@ ________________________________________________________________________________
 #### Contacts:
 
 <p align="left">
-<a title="GitHub" href="https://github.com/ugoiannacchero"><img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"></a> 
+<a title="GitHub" href="https://github.com/ugoiannacchero"><img width="48" src="https://img.icons8.com/color-glass/48/github--v1.png"></a> 
 &nbsp; 
-<a title="Gmail" href="mailto:ugoiann@gmail.com"><img width="30" src="https://img.icons8.com/color/96/000000/gmail.svg"></a>
+<a title="Gmail" href="mailto:ugoiann@gmail.com"><img width="48" src="https://img.icons8.com/color/96/000000/gmail.svg"></a>
 &nbsp; 
-<a title="LinkedIn" href="https://www.linkedin.com/in/ugo-maria-iannacchero-92314b211"><img width="30" src="https://img.icons8.com/color/96/000000/linkedin.svg"></a> 
+<a title="LinkedIn" href="https://www.linkedin.com/in/ugo-maria-iannacchero-92314b211"><img width="48" src="https://img.icons8.com/color/96/000000/linkedin.svg"></a> 
 &nbsp; 
-<a title="Twitter" href="https://twitter.com/redoctorok97"><img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"></a>
+<a title="Twitter" href="https://twitter.com/redoctorok97"><img width="48" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"></a>
 &nbsp; 
-<a title="Instagram" href="https://www.instagram.com/redoctorok97/"><img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"></a>
+<a title="Instagram" href="https://www.instagram.com/redoctorok97/"><img width="48" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"></a>
 </p>
 
 ____________________________________________________________________________________________________________________________________________________________________________________
