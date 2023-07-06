@@ -13,11 +13,11 @@
 ____________________________________________________________________________________________________________________________________________________________________________________
 
 #### Some info about me:
-* 📍  Lamezia Terme, Calabria, Italy
-* 🌍  Based in Milan
-* 🎓  Bachelor's degree in Biological Sciences - Siena
-* 🎓  Master's degree in Molecular Biotechnology and Bioinformatics - Milan
-* 📚  2° level vocational Master in Bioinformatics and Functional Genomics - Milan
+* 📍 Lamezia Terme, Calabria, Italy
+* 🏠 Based in Milan
+* 🎓 Bachelor's degree in Biological Sciences - Siena
+* 🎓 Master's degree in Molecular Biotechnology and Bioinformatics - Milan
+* 📚 2° level vocational Master in Bioinformatics and Functional Genomics - Milan
 ____________________________________________________________________________________________________________________________________________________________________________________
 
 #### Contacts:
