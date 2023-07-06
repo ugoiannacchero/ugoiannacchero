@@ -1,17 +1,17 @@
 <div align="center">
   &nbsp;
- ➡️ <a title="English" href="./README.md"><kbd><img width="30px" src="https://flagicons.lipis.dev/flags/4x3/gb.svg"></kbd></a>
+<a title="English" href="./README.md"><kbd><img width="30px" src="https://flagicons.lipis.dev/flags/4x3/gb.svg"></kbd></a>
   &nbsp;
   |
   &nbsp;
   <a title="Italiano" href="./README.it.md"><kbd><img width="30px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd></a> 
-  &nbsp;
+  &nbsp; ⬅️
 </div>
 
-## Hello! I'm Ugo and welcome to my GitHub profile!
+## Ciao! Io sono Ugo, benvenuti nel mio profilo GitHub!
 <br>
 
-## Some info about me
+## Alcune info su di me
 
 * 📍  Lamezia Terme, Calabria, Italy
 * 🌍  Based in Milan
@@ -19,7 +19,7 @@
 * 🎓  Master's degree in Molecular Biotechnology and Bioinformatics - Milan
 * 📚  2° level vocational Master in Bioinformatics and Functional Genomics - Milan
 
-## Contacts
+## I miei contatti
 
 <p align="left">
 <a title="GitHub" href="https://github.com/ugoiannacchero"><img width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"></a> 
@@ -37,4 +37,3 @@
 <a href="http://www.github.com/ugoiannacchero"><img src="https://github-readme-stats.vercel.app/api?username=ugoiannacchero&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true" alt="ugoiannacchero's GitHub stats" /></a>
 <br>
 <a href="http://www.github.com/ugoiannacchero"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ugoiannacchero&stroke=ffffff&background=181824&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
