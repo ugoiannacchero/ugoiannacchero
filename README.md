@@ -8,7 +8,7 @@
   &nbsp;
 </div>
 
-# Hello! I'm Ugo and welcome to my GitHub profile!
+## Hello! I'm Ugo and welcome to my GitHub profile!
 <br>
 
 ## Some info about me
@@ -30,7 +30,7 @@
 
 </p>
 
-# Stats
+## Stats
 
 <a href="http://www.github.com/ugoiannacchero"><img src="https://github-readme-stats.vercel.app/api?username=ugoiannacchero&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true" alt="ugoiannacchero's GitHub stats" /></a>
 
