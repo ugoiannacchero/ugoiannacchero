@@ -13,13 +13,11 @@
 ![](https://github.com/ugoiannacchero/ugoiannacchero/)
 
 #### Some info about me:
+* 🎂 27th June 1997
 * 📍 Lamezia Terme, Calabria, Italy
-* 🎂 27/06/1997
 * 🏠 Based in Milan, Lombardy, Italy
-* 🎓 Bachelor's degree in Biological Sciences - Siena
-* 🎓 Master's degree in Molecular Biotechnology and Bioinformatics - Milan
-* 📚 2° level vocational Master in Bioinformatics and Functional Genomics - Milan
-____________________________________________________________________________________________________________________________________________________________________________________
+* 🧬 Bioinformatics
+________________________________________________________________________________________________________________________________________________
 
 #### Contacts:
 
