@@ -11,6 +11,7 @@
 #### Alcune info su di me:
 
 * 📍 Lamezia Terme, Calabria, Italia
+* 🎂 27/06/1997
 * 🏠 Vivo a Milano, Lombardia, Italia
 * 🎓 Laurea Triennale in Scienze Biologiche - Siena (unisi)
 * 🎓 Laurea Magistrale in Molecular Biotechnology and Bioinformatics - Milano (unimi)
