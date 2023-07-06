@@ -13,7 +13,7 @@
 ![](https://github.com/ugoiannacchero/ugoiannacchero/)
 
 #### Some info about me:
-* 🎂 27th June 1997
+* ♋ 27/06/1997
 * 📍 Lamezia Terme, Calabria, Italy
 * 🏠 Based in Milan, Lombardy, Italy
 * 🧬 Learning Bioinformatics
