@@ -16,7 +16,7 @@
 * 🎂 27/06/1997
 * 📍 Lamezia Terme, Calabria, Italy
 * 🏠 Based in Milan, Lombardy, Italy
-* 🧬 Bioinformatics
+* 🧬 MSc in Molecular Biotechnology and Bioinformatics
 ________________________________________________________________________________________________________________________________________________
 
 #### Contacts:
