@@ -30,8 +30,6 @@ ________________________________________________________________________________
 &nbsp; 
 <a title="Gmail" href="mailto:ugoiann@gmail.com"><img width="48" src="https://img.icons8.com/color/96/000000/gmail.svg"></a> 
 &nbsp; 
-<a title="Twitter" href="https://twitter.com/redoctorok97"><img width="48" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"></a>
-&nbsp; 
 <a title="Instagram" href="https://www.instagram.com/redoctorok97/"><img width="48" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"></a>
 </p>
 
