@@ -43,4 +43,7 @@ ________________________________________________________________________________
 <br>
 <a href="http://www.github.com/ugoiannacchero"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ugoiannacchero&stroke=ffffff&background=181824&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <br>
-![Snake animation](https://github.com/ugoiannacchero/ugoiannacchero/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+<img alt="Snake animation" src="https://github.com/ugoiannacchero/ugoiannacchero/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
+<img alt="Snake animation" src="https://github.com/ugoiannacchero/ugoiannacchero/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
+</p>
