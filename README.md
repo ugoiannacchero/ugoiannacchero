@@ -42,9 +42,7 @@ ________________________________________________________________________________
 #### Stats:
 <p align="center">
 <a href="https://github.com/ugoiannacchero" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugoiannacchero&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<br>
-<a href="http://www.github.com/ugoiannacchero"><img alt="Ugo's GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=ugoiannacchero&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true" alt="Ugo's GitHub stats" /></a>
-<br>
+<a href="http://www.github.com/ugoiannacchero"><img src="https://github-readme-stats.vercel.app/api?username=ugoiannacchero&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true" alt="GitHub stats" /></a>
 <img alt="Snake animation" src="https://github.com/ugoiannacchero/ugoiannacchero/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
 <img alt="Snake animation" src="https://github.com/ugoiannacchero/ugoiannacchero/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
 </p>
