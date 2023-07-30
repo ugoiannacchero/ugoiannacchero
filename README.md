@@ -17,11 +17,8 @@
 * 📍 Lamezia Terme, Calabria, Italy
 * 🏠 Based in Milan, Lombardy, Italy
 * 🧬 MSc in Molecular Biotechnology and Bioinformatics
-<br>
-<p align="center">
 
-</p>
-________________________________________________________________________________________________________________________________________________
+________________________________________
 
 #### Contacts:
 
