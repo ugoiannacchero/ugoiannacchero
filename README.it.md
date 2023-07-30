@@ -17,9 +17,9 @@
 * 🎂 27/06/1997
 * 📍 Lamezia Terme, Calabria, Italia
 * 🏠 Vivo a Milano, Lombardia, Italia
-* 🧬 Bioinformatica
+* 🧬 Laureato in Molecular Biotechnology and Bioinformatics
 
-______________________________________________________________________________________________________
+_______________________________________
 
 #### I miei contatti:
 
