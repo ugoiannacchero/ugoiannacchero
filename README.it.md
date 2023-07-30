@@ -39,11 +39,8 @@ ________________________________________________________________________________
 
 #### Stats:
 <p align="center">
-<a href="http://www.github.com/ugoiannacchero"><img src="https://github-readme-stats.vercel.app/api?username=ugoiannacchero&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true" alt="ugoiannacchero's GitHub stats" /></a>
-<a href="http://www.github.com/ugoiannacchero"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ugoiannacchero&stroke=ffffff&background=181824&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<br>
-<a href="https://github.com/ugoiannacchero" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugoiannacchero&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<br>
+<a href="https://github.com/ugoiannacchero" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugoiannacchero&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Linguaggi più usati" /></a>
+<a href="http://www.github.com/ugoiannacchero"><img src="https://github-readme-stats.vercel.app/api?username=ugoiannacchero&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true" alt="Statistiche di GitHub" /></a>
 <img alt="Snake animation" src="https://github.com/ugoiannacchero/ugoiannacchero/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
 <img alt="Snake animation" src="https://github.com/ugoiannacchero/ugoiannacchero/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
 </p>
