@@ -1,4 +1,4 @@
-name: Update Commits Data for Snake
+name: Update Commits Data for contribution_graph
 
 on:
   # run automatically every day at 8:00
