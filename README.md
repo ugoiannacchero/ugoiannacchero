@@ -29,7 +29,7 @@ ________________________________________
 &nbsp; 
 <a title="Outlook" href="mailto:ugomaria.iannacchero@studenti.unimi.it"><img width="48" src="https://img.icons8.com/fluency/48/microsoft-outlook-2019.png"></a>
 &nbsp; 
-<a title="Gmail" href="mailto:ugoiann@gmail.com"><img width="48" src="https://img.icons8.com/color/96/000000/gmail.svg"></a> 
+<a title="Gmail" href="mailto:ugoiann@gmail.com"><img width="48" src="https://img.icons8.com/color/48/gmail-new.png"></a> 
 &nbsp; 
 </p>
 
