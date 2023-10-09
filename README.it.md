@@ -17,32 +17,29 @@
 * 🎂 27/06/1997
 * 📍 Lamezia Terme, Calabria, Italia
 * 🏠 Vivo a Milano, Lombardia, Italia
-* 🧬 Bioinformatica
+* 🧬 Laureato in Molecular Biotechnology and Bioinformatics
 
-______________________________________________________________________________________________________
+_______________________________________
 
 #### I miei contatti:
 
 <p align="left">
 <a title="GitHub" href="https://github.com/ugoiannacchero"><img width="48" src="https://img.icons8.com/color-glass/48/github--v1.png"></a> 
 &nbsp; 
-<a title="LinkedIn" href="https://www.linkedin.com/in/ugo-maria-iannacchero-92314b211"><img width="48" src="https://img.icons8.com/color/96/000000/linkedin.svg"></a>
+<a title="LinkedIn" href="https://www.linkedin.com/in/ugo-maria-iannacchero-92314b211"><img width="48" src="https://img.icons8.com/?size=96&id=xuvGCOXi8Wyg&format=png"></a>
 &nbsp; 
 <a title="Outlook" href="mailto:ugomaria.iannacchero@studenti.unimi.it"><img width="48" src="https://img.icons8.com/fluency/48/microsoft-outlook-2019.png"></a>
 &nbsp; 
-<a title="Gmail" href="mailto:ugoiann@gmail.com"><img width="48" src="https://img.icons8.com/color/96/000000/gmail.svg"></a> 
+<a title="Gmail" href="mailto:ugoiann@gmail.com"><img width="48" src="https://img.icons8.com/color/48/gmail-new.png"></a> 
 &nbsp; 
-<a title="Twitter" href="https://twitter.com/redoctorok97"><img width="48" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"></a>
-&nbsp; 
-<a title="Instagram" href="https://www.instagram.com/redoctorok97/"><img width="48" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"></a>
 </p>
 
-________________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________________________________________
 
 #### Stats:
-
-<a href="https://github.com/ugoiannacchero" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugoiannacchero&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<br>
-<a href="http://www.github.com/ugoiannacchero"><img src="https://github-readme-stats.vercel.app/api?username=ugoiannacchero&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true" alt="ugoiannacchero's GitHub stats" /></a>
-<br>
-<a href="http://www.github.com/ugoiannacchero"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ugoiannacchero&stroke=ffffff&background=181824&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align="center">
+<a href="https://github.com/ugoiannacchero" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugoiannacchero&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Linguaggi più usati" /></a>
+<a href="http://www.github.com/ugoiannacchero"><img src="https://github-readme-stats.vercel.app/api?username=ugoiannacchero&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true" alt="Statistiche di GitHub" /></a>
+<img alt="Snake animation" src="https://github.com/ugoiannacchero/ugoiannacchero/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
+<img alt="Snake animation" src="https://github.com/ugoiannacchero/ugoiannacchero/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
+</p>
