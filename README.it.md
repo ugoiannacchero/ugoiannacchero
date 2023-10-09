@@ -1,14 +1,17 @@
 <div align="center">
-&nbsp;
+<div align="center">
 <a title="English" href="./README.md"><kbd><img width="30px" src="https://flagicons.lipis.dev/flags/4x3/gb.svg"></kbd></a>
+&nbsp; 
+&nbsp; 
+&nbsp;
+&nbsp; 
+|
 &nbsp; 
 &nbsp;
 &nbsp;
 &nbsp;
-|
-&nbsp;
-<img src="https://github.com/ugoiannacchero/ugoiannacchero/blob/main/GIFs/rightarrow.gif"" width="40" height="20"> <a title="Italiano" href="./README.it.md"><kbd><img width="30px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd></a> <img src="https://github.com/ugoiannacchero/ugoiannacchero/blob/main/GIFs/leftarrow.gif" width="40" height="20">
-&nbsp;
+<a title="Italiano" href="./README.it.md"><kbd><img width="30px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd></a> 
+</div>
 </div>
 <br>
 
