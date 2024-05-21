@@ -24,6 +24,16 @@
 
 _______________________________________
 
+#### Languages:
+
+<p align="left"> 
+  <a title="Bash" href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="48" height="48"/></a> 
+  <a title="Python" href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" /></a> 
+  <a title="R" href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="48" /></a> 
+</p>  
+
+_______________________________________
+
 #### I miei contatti:
 
 <p align="left">
