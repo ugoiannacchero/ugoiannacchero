@@ -20,8 +20,7 @@
 * 🎂 27/06/1997
 * 📍 Lamezia Terme, Calabria, Italia
 * 🏠 Vivo a Milano, Lombardia, Italia
-* 🧬 Laurea Magistrale in Molecular Biotechnology and Bioinformatics
-* 🖥️ Master di secondo livello in Bioinformatics and Functional Genomics
+* 🎓 Master in Bioinformatica e Genomica Funzionale
 
 _______________________________________
 
