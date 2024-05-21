@@ -43,7 +43,6 @@ _______________________________________
 &nbsp; 
 <a title="MastodonScience" href="https://mstdn.science/@redoctorok97"><img width="48" src=https://github.com/matomo-org/matomo-icons/blob/master/src/socials/mastodon.social.svg"></a> 
 &nbsp;
-  https://github.com/matomo-org/matomo-icons/blob/master/src/socials/mastodon.social.svg
 <a title="LinkedIn" href="https://www.linkedin.com/in/ugo-maria-iannacchero-92314b211"><img width="48" src="https://img.icons8.com/?size=96&id=xuvGCOXi8Wyg&format=png"></a>
 &nbsp; 
 <a title="Outlook" href="mailto:ugo.iannacchero@itb.cnr.it"><img width="48" src="https://img.icons8.com/fluency/48/microsoft-outlook-2019.png"></a>
