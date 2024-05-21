@@ -32,7 +32,7 @@ _______________________________________
   <a title="R" href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="r" width="48" /></a> 
 <a title="Pandas" href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="48" height="48"/></a> 
   <a title="Seaborn" href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="48" height="48"/></a> 
-  <a title="https://jupyter.org/" href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="48" height="48"/></a> 
+  <a title="https://jupyter.org/" href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="48" height="48"/></a> 
 </p>  
 
 _______________________________________
