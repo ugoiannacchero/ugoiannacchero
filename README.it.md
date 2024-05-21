@@ -46,7 +46,7 @@ _______________________________________
 &nbsp;
 <a title="MastodonScience" href="https://mstdn.science/@redoctorok97"><img width="40" src="https://github.com/matomo-org/matomo-icons/blob/master/src/socials/mastodon.social.svg"></a> 
 &nbsp;                                                                                         
-<a title="E-Mail" href="mailto:ugo.iannacchero@itb.cnr.it"><img width="48" src="https://gist.github.com/PranoyBu/d3a635ca00fb890856ad2b12a2f92a0a#file-mail-svg"></a>
+<a title="E-Mail" href="mailto:ugo.iannacchero@itb.cnr.it"><img width="48" src="https://www.svgrepo.com/show/313130/email.svg"></a>
 &nbsp; 
 </p>
 
