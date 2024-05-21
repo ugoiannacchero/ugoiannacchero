@@ -41,10 +41,10 @@ _______________________________________
 <p align="left">
 <a title="GitHub" href="https://github.com/ugoiannacchero"><img width="48" src="https://img.icons8.com/color-glass/48/github--v1.png"></a> 
 &nbsp; 
-<a title="MastodonScience" href="https://mstdn.science/@redoctorok97"><img width="40" src="https://github.com/matomo-org/matomo-icons/blob/master/src/socials/mastodon.social.svg"></a> 
-&nbsp;
 <a title="LinkedIn" href="https://www.linkedin.com/in/ugo-maria-iannacchero-92314b211"><img width="48" src="https://img.icons8.com/?size=96&id=xuvGCOXi8Wyg&format=png"></a>
-&nbsp; 
+&nbsp;
+<a title="MastodonScience" href="https://mstdn.science/@redoctorok97"><img width="40" src="https://github.com/matomo-org/matomo-icons/blob/master/src/socials/mastodon.social.svg"></a> 
+&nbsp;                                                                                         
 <a title="Outlook" href="mailto:ugo.iannacchero@itb.cnr.it"><img width="48" src="https://img.icons8.com/fluency/48/microsoft-outlook-2019.png"></a>
 &nbsp; 
 <a title="Gmail" href="mailto:ugoiann@gmail.com"><img width="48" src="https://img.icons8.com/color/48/gmail-new.png"></a> 
