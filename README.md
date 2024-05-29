@@ -25,12 +25,12 @@ ________________________________________
 #### Languages and Tools:
 
 <p align="left"> 
-  <a title="Bash" href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="48" height="48"/></a> 
-  <a title="R" href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="48" /></a> 
-  <a title="Python" href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" /></a> 
-  <a title="Pandas" href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="48" height="48"/></a> 
-  <a title="Seaborn" href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="48" height="48"/></a> 
-  <a title="https://jupyter.org/" href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="48" height="48"/></a>  
+  <a title="Bash" href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a> 
+  <a title="R" href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="40" /></a> 
+  <a title="Python" href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" /></a> 
+  <a title="Pandas" href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/></a> 
+  <a title="Seaborn" href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="48" height="40"/></a> 
+  <a title="https://jupyter.org/" href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></a>  
 </p>  
 
 _______________________________________
@@ -39,13 +39,13 @@ _______________________________________
 #### Contacts:
 
 <p align="left">
-<a title="GitHub" href="https://github.com/ugoiannacchero"><img width="48" src="https://img.icons8.com/color-glass/48/github--v1.png"></a> 
+<a title="GitHub" href="https://github.com/ugoiannacchero"><img width="40" src="https://img.icons8.com/color-glass/48/github--v1.png"></a> 
 &nbsp; 
-<a title="LinkedIn" href="https://www.linkedin.com/in/ugo-maria-iannacchero-92314b211"><img width="48" src="https://img.icons8.com/?size=96&id=xuvGCOXi8Wyg&format=png"></a>
+<a title="LinkedIn" href="https://www.linkedin.com/in/ugo-maria-iannacchero-92314b211"><img width="40" src="https://img.icons8.com/?size=96&id=xuvGCOXi8Wyg&format=png"></a>
 &nbsp;
-<a title="mstdn.science " href="https://mstdn.science/@redoctorok97"><img width="40" src="https://github.com/matomo-org/matomo-icons/blob/master/src/socials/mastodon.social.svg"></a> 
+<a title="mstdn.science " href="https://mstdn.science/@redoctorok97"><img width="33" src="https://github.com/matomo-org/matomo-icons/blob/master/src/socials/mastodon.social.svg"></a> 
 &nbsp;                                                                                         
-<a title="E-Mail" href="mailto:ugo.iannacchero@itb.cnr.it"><img width="46" src="https://www.svgrepo.com/show/313130/email.svg"></a>
+<a title="E-Mail" href="mailto:ugo.iannacchero@itb.cnr.it"><img width="38" src="https://www.svgrepo.com/show/313130/email.svg"></a>
 &nbsp; 
 </p>
 
