@@ -18,7 +18,7 @@
 * 🎂 27/06/1997
 * 📍 Lamezia Terme, Calabria, Italy
 * 🏠 Settled in Milan, Lombardy, Italy
-* 🎓 Master in Bioinformatics and Functional Genomics
+* 🎓 2nd level Master in Bioinformatics and Functional Genomics
 
 ________________________________________
 
