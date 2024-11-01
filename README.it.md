@@ -24,7 +24,7 @@
 
 _______________________________________
 
-#### Linguaggi e Tools:
+#### Skills:
 
 <p align="left"> 
   <a title="Bash" href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a> 
@@ -43,11 +43,11 @@ _______________________________________
 <p align="left">
 <a title="Bluesky" href="https://github.com/ugoiannacchero"><img width="40" src="https://github.com/matomo-org/matomo-icons/blob/master/src/socials/bsky.app.svg"></a> 
 &nbsp;                                                                                          
-<a title="mstdn.science " href="https://mstdn.science/@redoctorok97"><img width="38" src="https://github.com/matomo-org/matomo-icons/blob/master/src/socials/mastodon.social.svg"></a> 
+<a title="mstdn.science " href="https://mstdn.science/@redoctorok97"><img width="34" src="https://github.com/matomo-org/matomo-icons/blob/master/src/socials/mastodon.social.svg"></a> 
 &nbsp;   
 <a title="GitHub" href="https://github.com/ugoiannacchero"><img width="43" src="https://img.icons8.com/color-glass/48/github--v1.png"></a> 
 &nbsp; 
-<a title="LinkedIn" href="https://www.linkedin.com/in/ugo-maria-iannacchero-92314b211"><img width="40" src="https://github.com/matomo-org/matomo-icons/blob/master/src/socials/linkedin.com.png"></a>
+<a title="LinkedIn" href="https://www.linkedin.com/in/ugo-maria-iannacchero-92314b211"><img width="36" src="https://github.com/matomo-org/matomo-icons/blob/master/src/socials/linkedin.com.png"></a>
 &nbsp;                                                                                 
 <a title="E-Mail" href="mailto:ugo.iannacchero@itb.cnr.it"><img width="38" src="https://www.svgrepo.com/show/313130/email.svg"></a>
 &nbsp; 
