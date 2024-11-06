@@ -41,7 +41,7 @@ _______________________________________
 #### Contatti:
 
 <p align="left">
-<a title="Bluesky" href="https://bsky.app/profile/redoctorok97.bsky.social"><img width="40" src="https://github.com/matomo-org/matomo-icons/blob/master/src/socials/bsky.app.svg"></a> 
+<a title="Bluesky" href="https://bsky.app/profile/ugoiann.bsky.social"><img width="40" src="https://github.com/matomo-org/matomo-icons/blob/master/src/socials/bsky.app.svg"></a> 
 &nbsp;                                                                                          
 <a title="mstdn.science " href="https://mstdn.science/@redoctorok97"><img width="34" src="https://github.com/matomo-org/matomo-icons/blob/master/src/socials/mastodon.social.svg"></a> 
 &nbsp;   
