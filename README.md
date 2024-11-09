@@ -18,9 +18,10 @@
 
 * 🎂 27/06/1997
 * 🏠 Lamezia Terme, Calabria, Italy
-* 📍 Settled in Milan, Lombardy, Italy
-* 📊 Analysis of Genomic and Transcriptomic sequences in bacteria and humans
-
+* 📍 Milan, Lombardy, Italy
+* 🎓 II level Master in Bioinformatics and Functional Genomics
+* 👨🏻‍💻 Bioinformatics Research Assistant at [ITB-CNR](https://www.itb.cnr.it/en/home-en/)
+  
 ________________________________________
 
 #### Skills:
