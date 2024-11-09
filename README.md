@@ -43,7 +43,7 @@ _______________________________________
 &nbsp; 
 <a title="Bluesky" href="https://bsky.app/profile/ugoiann.bsky.social"><img width="40" src="https://github.com/matomo-org/matomo-icons/blob/master/src/socials/bsky.app.svg"></a> 
 &nbsp;                                                                                          
-<a title="LinkedIn" href="https://www.linkedin.com/in/ugo-maria-iannacchero-92314b211"><img width="36" src="https://github.com/matomo-org/matomo-icons/blob/master/src/socials/linkedin.com.png"></a>
+<a title="LinkedIn" href="https://www.linkedin.com/in/ugomariaiannacchero"><img width="36" src="https://github.com/matomo-org/matomo-icons/blob/master/src/socials/linkedin.com.png"></a>
 &nbsp;                                                                                 
 </p>
 
