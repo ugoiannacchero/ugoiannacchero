@@ -28,7 +28,7 @@ _______________________________________
 #### Conoscenze:
 
 <p align="left"> 
-  <a title="Bash" href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="42" height="42"/></a>
+  <a title="Bash" href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/SVG/128x128.svg" alt="bash" width="42" height="42"/></a>
   <a title="Python" href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" /></a> 
   <a title="R" href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="42" /></a> 
   <a title="https://jupyter.org/" href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="42" height="42"/></a>  
