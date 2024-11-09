@@ -18,21 +18,20 @@
 #### Alcune info su di me:
 
 * 🎂 27/06/1997
-* 📍 Lamezia Terme, Calabria, Italia
-* 🏠 Vivo a Milano, Lombardia, Italia
-* 🎓 Master di Secondo livello in Bioinformatica e Genomica Funzionale
+* 🏠 Lamezia Terme, Calabria, Italy
+* 📍 Milano, Lombardia, Italia
+* 🎓 Master di II livello in Bioinformatica e Genomica Funzionale
+* 👨🏻‍💻 Assegnista di Ricerca Bioinformatico presso [ITB-CNR](https://www.itb.cnr.it/)
 
 _______________________________________
 
 #### Conoscenze:
 
 <p align="left"> 
-  <a title="Bash" href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a> 
-  <a title="R" href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="40" /></a> 
-  <a title="Python" href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" /></a> 
-  <a title="Pandas" href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/></a> 
-  <a title="Seaborn" href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="48" height="40"/></a> 
-  <a title="https://jupyter.org/" href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></a>  
+  <a title="Bash" href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="42" height="42"/></a> 
+  <a title="R" href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="42" /></a> 
+  <a title="Python" href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" /></a> 
+  <a title="https://jupyter.org/" href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="42" height="42"/></a>  
 </p>  
 
 _______________________________________
