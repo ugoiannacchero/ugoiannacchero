@@ -15,10 +15,11 @@
 ![](https://github.com/ugoiannacchero/ugoiannacchero/)
 
 #### Some info about me:
+
 * 🎂 27/06/1997
-* 📍 Lamezia Terme, Calabria, Italy
-* 🏠 Settled in Milan, Lombardy, Italy
-* 🎓 Second level Master in Bioinformatics and Functional Genomics
+* 🏠 Lamezia Terme, Calabria, Italy
+* 📍 Settled in Milan, Lombardy, Italy
+* 📊 Analysis of Genomic and Transcriptomic sequences in bacteria and humans
 
 ________________________________________
 
