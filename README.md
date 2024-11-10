@@ -24,7 +24,7 @@
   
 ________________________________________
 
-#### Comfortable with:
+#### Favorite tools:
 
 <p align="left"> 
   <a title="Bash" href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/SVG/128x128.svg" alt="bash" width="42" height="42"/></a>
