@@ -21,7 +21,7 @@
 * 🏠 Lamezia Terme, Calabria, Italy
 * 📍 Milano, Lombardia, Italia
 * 🎓 Master di II livello in Bioinformatica e Genomica Funzionale
-* 👨🏻‍💻 Assegnista di Ricerca presso l'[Istituto di Tecnologie Biomediche - CNR](https://www.itb.cnr.it/)
+* 👨🏻‍💻 Assegnista di Ricerca presso [ITB - CNR](https://www.itb.cnr.it/)
 
 _______________________________________
 
