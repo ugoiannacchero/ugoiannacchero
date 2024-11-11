@@ -51,14 +51,15 @@ _______________________________________
 ____________________________________________________________________________________________________________________________________________________________________________________
 
 #### Stats:
-<p align="center">
-  <a href="https://github.com/ugoiannacchero" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugoiannacchero&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages&v=5" alt="Top Languages" />
-  </a>
-  <a href="http://www.github.com/ugoiannacchero">
-    <img src="https://github-readme-stats.vercel.app/api?username=ugoiannacchero&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true&v=5" alt="GitHub stats" />
-  </a>
-</p>
+
+<div align="center">
+
+| | |
+|---|---|
+| [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ugoiannacchero&hide_border=true&hide=stars&show_icons=true&theme=material-palenight)](https://github.com/ugoiannacchero/github-readme-stats) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ugoiannacchero&hide_border=true&layout=compact&theme=material-palenight&size_weight=0.5&count_weight=0.5&hide=html,php)](https://github.com/ugoiannacchero/github-readme-stats) |
+
+</div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ugoiannacchero/ugoiannacchero/output/github-contribution-grid-snake-dark.svg">
