@@ -53,10 +53,12 @@ ________________________________________________________________________________
 
 <div align="center">
 
+| | |
 |---|---|
 | [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ugoiannacchero&hide_border=true&hide=stars&show_icons=true&theme=material-palenight)](https://github.com/ugoiannacchero/github-readme-stats) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ugoiannacchero&hide_border=true&layout=compact&theme=material-palenight&size_weight=0.5&count_weight=0.5&hide=html,php)](https://github.com/ugoiannacchero/github-readme-stats) |
 
 </div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ugoiannacchero/ugoiannacchero/output/github-contribution-grid-snake-dark.svg">
