@@ -21,6 +21,7 @@
 * 📍 Milan, Lombardy, Italy
 * 🎓 II level Master in Bioinformatics and Functional Genomics
 * 👨🏻‍💻 Research Assistant at [ITB - CNR](https://www.itb.cnr.it/en/home-en/)
+* 📊 Engaged in Genomic & Transcriptomic analysis
   
 ________________________________________
 
