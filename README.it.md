@@ -22,6 +22,7 @@
 * 📍 Milano, Lombardia, Italia
 * 🎓 Master di II livello in Bioinformatica e Genomica Funzionale
 * 👨🏻‍💻 Assegnista di Ricerca presso [ITB - CNR](https://www.itb.cnr.it/)
+* 📊 Coinvolto in analisi Genomiche e Trascrittomiche
 
 _______________________________________
 
