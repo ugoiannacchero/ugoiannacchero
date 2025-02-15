@@ -1,4 +1,4 @@
-Hi there, I'm Ugo! 👋
+Hi there, I'm Ugo! 👋🏻
 I work as a Research Assistant at the [ITB-CNR](https://www.itb.cnr.it/en/home-en/) in Segrate 
 
 <!--
