@@ -1,4 +1,4 @@
-Hi there, I'm Ugo! 👋 I work as a Research Assistant at [ITB-CNR](https://www.itb.cnr.it/en/home-en/) 🧬
+Hi there, I'm Ugo! 👋 I work as a Research Assistant at the [Institute of Biomedical Technologies, National Research Council](https://www.itb.cnr.it/en/home-en/) 🧬
 
 <!--
 **ugoiannacchero/ugoiannacchero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
