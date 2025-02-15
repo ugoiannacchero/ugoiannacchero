@@ -1,6 +1,6 @@
 Hi there, I'm Ugo! 👋🏻
 
-I work as a bioinformatics research assistant at the [ITB-CNR](https://www.itb.cnr.it/en/home-en/) in Segrate, Italy.
+I work as a bioinformatics research assistant at the [ITB-CNR](https://www.itb.cnr.it/en/home-en/) in Segrate, Italy 🇮🇹
 
 <!--
 **ugoiannacchero/ugoiannacchero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
