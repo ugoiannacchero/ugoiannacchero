@@ -38,6 +38,12 @@ jobs:
           outputs: |
             dist/snake-gruvbox.svg?palette=gruvbox
 
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ugoiannacchero
+          outputs: |
+            dist/snake-evangelion.svg?palette=dracula
+
       # TRANSPARENT
       - uses: Platane/snk@v3
         with:
