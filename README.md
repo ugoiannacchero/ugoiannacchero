@@ -13,8 +13,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ugoiannacchero&show_icons=true&theme=github_dark&hide_border=true&title_color=6d597a" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugoiannacchero&layout=compact&theme=github_dark&hide_border=true&title_color=6d597a" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugoiannacchero&include_forks=true&layout=compact&theme=github_dark&hide_border=true&title_color=6d597a" height="150" />
 </p>
+
 
 ---
 
