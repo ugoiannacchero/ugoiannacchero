@@ -18,7 +18,6 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: ugoiannacchero
-          args: --years=2024,2025
           outputs: |
             dist/snake-dark.svg?palette=github-dark
 
@@ -26,7 +25,6 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: ugoiannacchero
-          args: --years=2024,2025
           outputs: |
             dist/snake-light.svg?palette=github-light
 
@@ -34,7 +32,6 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: ugoiannacchero
-          args: --years=2024,2025
           outputs: |
             dist/snake-gruvbox.svg?palette=gruvbox
 
@@ -42,7 +39,6 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: ugoiannacchero
-          args: --years=2024,2025
           outputs: |
             dist/snake-delo.svg?palette=github-dark&color_snake=#355070&color_dots=#ffeab5&background=transparent
 
@@ -50,7 +46,6 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: ugoiannacchero
-          args: --years=2024,2025
           outputs: |
             dist/snake-transparent.svg?palette=github-dark&background=transparent
 
