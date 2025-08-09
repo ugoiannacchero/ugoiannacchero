@@ -38,13 +38,15 @@ jobs:
           outputs: |
             dist/snake-gruvbox.svg?palette=gruvbox
 
+      # DELO 
       - uses: Platane/snk@v3
         with:
           github_user_name: ugoiannacchero
+          args: --years=2024,2025
           outputs: |
-            dist/snake-delo.svg?palette=github-dark&color_snake=#355070&color_dots=#ffeab5
+            dist/snake-delo.svg?palette=github-dark&color_snake=#355070&color_dots=#ffeab5&background=transparent
 
-      # TRANSPARENT
+      # TRANSPARENT CLASSIC
       - uses: Platane/snk@v3
         with:
           github_user_name: ugoiannacchero
