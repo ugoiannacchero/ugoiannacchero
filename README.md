@@ -1,7 +1,12 @@
 <p align="center">
-  hi there, i'm ugo – I work as a bioinformatics research assistant at the <a href="https://www.itb.cnr.it/en/home-en/">ITB-CNR</a> in Segrate, Italy 🇮🇹
+  hi there, i'm ugo — I'm a PhD student (41st Cycle) in Experimental Medicine at the 
+  <a href="https://d-memphd.unimi.it/">University of Milan</a> & 
+  <a href="https://www.itb.cnr.it/en/home-en/">ITB-CNR</a> in Segrate, Italy 🇮🇹 
 </p>
 
+<p align="center">
+  I'm a bioinformatician working on chromatin architecture and dynamics from prokaryotes to higher eukaryotes
+</p>
 
 <p align="center">
   <a href="mailto:ugo.iannacchero@itb.cnr.it"><img src="https://img.shields.io/badge/Email-0A66C2?style=flat&logo=gmail&logoColor=white"></a>
