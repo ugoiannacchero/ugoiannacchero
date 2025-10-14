@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  I'm a bioinformatician working on chromatin architecture and dynamics from prokaryotes to higher eukaryotes
 </p>
 
 <p align="center">
