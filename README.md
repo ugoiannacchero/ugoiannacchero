@@ -23,7 +23,7 @@
   
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ugoiannacchero&include_all_commits=true&count_private=true&hide_border=true&hide=stars&show_icons=true&theme=material-palenight)](https://github.com/ugoiannacchero/github-readme-stats)
 
-<h4 align="center"> Tools I work with </h4>
+<h4 align="center"><font size="10">Tools I work with</font></h4>
 
 [![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
