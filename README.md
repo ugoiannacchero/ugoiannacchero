@@ -33,8 +33,12 @@
 </td>
 <td width="52%" align="center" valign="top">
 
-[![nf-core/sammyseq](https://github-readme-stats.vercel.app/api/pin/?username=nf-core&repo=sammyseq&theme=material-palenight&hide_border=true)](https://github.com/nf-core/sammyseq)
-[![poster_conferences](https://github-readme-stats.vercel.app/api/pin/?username=ugoiannacchero&repo=poster_conferences&theme=material-palenight&hide_border=true)](https://github.com/ugoiannacchero/poster_conferences)
+<!-- Repository cards più piccole -->
+[![nf-core/sammyseq](https://github-readme-stats.vercel.app/api/pin/?username=nf-core&repo=sammyseq&theme=material-palenight&hide_border=true&card_width=250)](https://github.com/nf-core/sammyseq)
+[![poster_conferences](https://github-readme-stats.vercel.app/api/pin/?username=ugoiannacchero&repo=poster_conferences&theme=material-palenight&hide_border=true&card_width=250)](https://github.com/ugoiannacchero/poster_conferences)
+
+</td>
+
 
 </div>
 
