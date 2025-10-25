@@ -20,8 +20,6 @@
 <td width="48%" align="center" valign="top">
 
 <div style="height:5px;"></div>
-  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ugoiannacchero&include_all_commits=true&count_private=true&hide_border=true&hide=stars&show_icons=true&theme=material-palenight)](https://github.com/ugoiannacchero/github-readme-stats)
 
 <h4 align="center"><font size="10">Tools I work with</font></h4>
 
@@ -34,10 +32,8 @@
 
 </td>
 <td width="52%" align="center" valign="top">
-
-<!-- Repository cards più piccole -->
-[![nf-core/sammyseq](https://github-readme-stats.vercel.app/api/pin/?username=nf-core&repo=sammyseq&theme=material-palenight&hide_border=true&card_width=250)](https://github.com/nf-core/sammyseq)
-[![poster_conferences](https://github-readme-stats.vercel.app/api/pin/?username=ugoiannacchero&repo=poster_conferences&theme=material-palenight&hide_border=true&card_width=250)](https://github.com/ugoiannacchero/poster_conferences)
+  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ugoiannacchero&include_all_commits=true&count_private=true&hide_border=true&hide=stars&show_icons=true&theme=material-palenight)](https://github.com/ugoiannacchero/github-readme-stats)
 
 </td>
 
