@@ -23,13 +23,13 @@
 
 <h4 align="center"><font size="10">Tools I work with</font></h4>
 
+[![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Nextflow](https://img.shields.io/badge/Nextflow-%2300AA88.svg?style=for-the-badge&logo=nextflow&logoColor=white)](https://www.nextflow.io/)
+[![nf-core/sammyseq](https://img.shields.io/badge/nf--core-sammyseq-24B064?style=for-the-badge&logo=nf-core&logoColor=white&labelColor=555555&color=24B064)](https://nf-co.re/sammyseq)
 [![JupyterLab](https://img.shields.io/badge/JupyterLab-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 [![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Nextflow](https://img.shields.io/badge/Nextflow-%2300AA88.svg?style=for-the-badge&logo=nextflow&logoColor=white)](https://www.nextflow.io/)
-[![nf-core/sammyseq](https://img.shields.io/badge/nf--core-sammyseq-24B064?style=for-the-badge&logo=nf-core&logoColor=white&labelColor=555555&color=24B064)](https://nf-co.re/sammyseq)
 
 </td>
 <td width="52%" align="center" valign="top">
