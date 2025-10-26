@@ -15,13 +15,11 @@
 
 <div align="center">
 
-<table border="0" style="border:none;margin:0;padding:0;">
-<tr>
-<td width="48%" align="center" valign="top">
-
 <div style="height:5px;"></div>
 
 <h4 align="center"><font size="10">Tools I work with</font></h4>
+
+
 
 <div align="center" style="transform: scale(0.9);">
   
@@ -31,23 +29,6 @@
 [![JupyterLab](https://img.shields.io/badge/JupyterLab-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
-
-
-</div>
-
-</td>
-<td width="52%" align="center" valign="top">
-  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ugoiannacchero&include_all_commits=true&count_private=true&hide_border=true&hide=stars&show_icons=true&theme=material-palenight)](https://github.com/ugoiannacchero/github-readme-stats)
-
-</td>
-
-
-</div>
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -61,11 +42,20 @@
 
 ---
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/ugoiannacchero/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=ugoiannacchero&hide_border=true&hide=stars&show_icons=true&theme=material-palenight" width="400" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ugoiannacchero/ugoiannacchero/output/snake-dark.svg">
+        <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/ugoiannacchero/ugoiannacchero/output/snake-dark.svg" width="400" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ugoiannacchero/ugoiannacchero/output/snake-dark.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/ugoiannacchero/ugoiannacchero/output/snake-dark.svg" width="800">
-</picture>
 
-</div>
