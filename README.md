@@ -1,5 +1,5 @@
 <p align="center">
-  PhD student in Experimental Medicine at the <a href="https://d-memphd.unimi.it/">University of Milan</a>, conducting research in the <a href="https://www.itb.cnr.it/en/home-en/">ITB-CNR</a> Genomics group in Segrate, Italy 🇮🇹 
+  PhD student in Experimental Medicine at the <a href="https://d-memphd.unimi.it/">University of Milan</a>, conducting research in the <a href="https://www.itb.cnr.it/en/home-en/">ITB-CNR</a> Genomics group in Segrate, Italy 
 </p>
 
 <p align="center">
