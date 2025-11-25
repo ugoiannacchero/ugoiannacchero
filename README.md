@@ -42,20 +42,13 @@
 
 ---
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/ugoiannacchero/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=ugoiannacchero&hide_border=true&hide=stars&show_icons=true&theme=material-palenight" width="400" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ugoiannacchero/ugoiannacchero/output/snake-dark.svg">
-        <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/ugoiannacchero/ugoiannacchero/output/snake-dark.svg" width="400" />
-      </picture>
-    </td>
-  </tr>
-</table>
+<div align="center" style="margin-top:16px;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ugoiannacchero/ugoiannacchero/output/snake-dark.svg">
+    <img alt="GitHub contribution grid snake animation"
+         src="https://raw.githubusercontent.com/ugoiannacchero/ugoiannacchero/output/snake-dark.svg"
+         style="max-width:800px; width:100%; height:auto;" />
+  </picture>
+</div>
 
 
